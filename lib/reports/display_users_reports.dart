@@ -2,9 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:firedart/firedart.dart';
 import 'package:lottie/lottie.dart';
 
-const apiKey = '';
-const projectId = 'flutterdatabase-7e044';
-
 class DisplayReports extends StatefulWidget {
   const DisplayReports({super.key});
 
